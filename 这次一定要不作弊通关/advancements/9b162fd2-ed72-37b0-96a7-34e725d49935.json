@@ -704,6 +704,7 @@
       "cooked_mutton": "2024-06-12 21:30:45 +0800",
       "potato": "2024-06-12 22:17:25 +0800",
       "cooked_beef": "2024-06-13 02:47:36 +0800",
+      "baked_potato": "2024-06-21 15:28:52 +0800",
       "porkchop": "2024-06-12 22:16:59 +0800",
       "cooked_salmon": "2024-06-12 23:34:42 +0800"
     },
@@ -2701,6 +2702,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-06-21 11:36:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-06-21 15:16:18 +0800"
     },
     "done": true
   },
