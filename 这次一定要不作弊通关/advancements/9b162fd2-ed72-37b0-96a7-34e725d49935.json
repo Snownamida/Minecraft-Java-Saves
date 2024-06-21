@@ -1591,6 +1591,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2024-06-21 22:26:29 +0800",
       "minecraft:pig": "2024-06-14 05:53:48 +0800",
       "minecraft:sheep": "2024-06-13 02:28:06 +0800"
     },
@@ -2711,6 +2712,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2024-06-21 15:16:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-06-21 22:10:11 +0800"
     },
     "done": true
   },
