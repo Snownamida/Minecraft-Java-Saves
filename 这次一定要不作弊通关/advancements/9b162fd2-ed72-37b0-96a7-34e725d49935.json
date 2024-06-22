@@ -2770,5 +2770,11 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-06-22 13:53:28 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3839
 }
